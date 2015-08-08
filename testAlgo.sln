@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testAlgo", "testAlgo\testAlgo.vcxproj", "{60E67A33-A135-4143-8E07-A54BB9F8FA46}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testRBTree", "testRBTree\testRBTree.vcxproj", "{E11A8AEC-0D1B-4685-A4D3-75BDAB5FF469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E67A33-A135-4143-8E07-A54BB9F8FA46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60E67A33-A135-4143-8E07-A54BB9F8FA46}.Debug|Win32.Build.0 = Debug|Win32
+		{60E67A33-A135-4143-8E07-A54BB9F8FA46}.Release|Win32.ActiveCfg = Release|Win32
+		{60E67A33-A135-4143-8E07-A54BB9F8FA46}.Release|Win32.Build.0 = Release|Win32
+		{E11A8AEC-0D1B-4685-A4D3-75BDAB5FF469}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E11A8AEC-0D1B-4685-A4D3-75BDAB5FF469}.Debug|Win32.Build.0 = Debug|Win32
+		{E11A8AEC-0D1B-4685-A4D3-75BDAB5FF469}.Release|Win32.ActiveCfg = Release|Win32
+		{E11A8AEC-0D1B-4685-A4D3-75BDAB5FF469}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

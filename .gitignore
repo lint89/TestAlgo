@@ -28,5 +28,6 @@ _ReSharper*/
 *.vssscc
 $tf*/
 
-
+*.ipch
+*.sdf
 *.opensdf
